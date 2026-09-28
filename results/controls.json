@@ -1,0 +1,36 @@
+{
+ "bit_identity": {
+  "RTCFake": {
+   "loss_free_instances": 462,
+   "bit_identical": 462
+  },
+  "ASVspoof": {
+   "loss_free_instances": 683,
+   "bit_identical": 683
+  },
+  "FLEURS": {
+   "loss_free_instances": 15,
+   "bit_identical": 15
+  },
+  "total": {
+   "loss_free_instances": 1160,
+   "bit_identical": 1160
+  }
+ },
+ "encoder_declared_loss": {
+  "detector": "T1",
+  "corpus": "RTCFake",
+  "n_items": 7739,
+  "n_bona": 1452,
+  "n_spoof": 6287,
+  "condition": "SILK VBR, 14800 bps nominal, no DRED, zero mask, decoder complexity 4",
+  "delta_eer_pp": -0.1987408097780169,
+  "delta_ci95_pp": [
+   -0.6783752033690569,
+   0.140446791906515
+  ],
+  "shift_bona": -0.019628909039349596,
+  "shift_spoof": -0.18368022125353584,
+  "absolute_levels_withheld": "ongoing challenge; see the paper's Table I caption"
+ }
+}

@@ -1,0 +1,362 @@
+[
+ {
+  "corpus": "RTCFake",
+  "det": "T1",
+  "cls": "bona",
+  "arm": "lace",
+  "mean": -0.7619677237632682,
+  "se": 0.03877516193865637,
+  "n": 1452
+ },
+ {
+  "corpus": "RTCFake",
+  "det": "T1",
+  "cls": "bona",
+  "arm": "nolace",
+  "mean": -0.840356430023416,
+  "se": 0.04302301379240888,
+  "n": 1452
+ },
+ {
+  "corpus": "RTCFake",
+  "det": "T1",
+  "cls": "spoof",
+  "arm": "lace",
+  "mean": -1.127556598587523,
+  "se": 0.03167994387262799,
+  "n": 6287
+ },
+ {
+  "corpus": "RTCFake",
+  "det": "T1",
+  "cls": "spoof",
+  "arm": "nolace",
+  "mean": -1.1058823257194086,
+  "se": 0.03012855417579192,
+  "n": 6287
+ },
+ {
+  "corpus": "RTCFake",
+  "det": "T2",
+  "cls": "bona",
+  "arm": "lace",
+  "mean": -0.06965620574585006,
+  "se": 0.009961471395815416,
+  "n": 1452
+ },
+ {
+  "corpus": "RTCFake",
+  "det": "T2",
+  "cls": "bona",
+  "arm": "nolace",
+  "mean": -0.49595290729288555,
+  "se": 0.01793823250823705,
+  "n": 1452
+ },
+ {
+  "corpus": "RTCFake",
+  "det": "T2",
+  "cls": "spoof",
+  "arm": "lace",
+  "mean": -0.06510354902258127,
+  "se": 0.003092650464086491,
+  "n": 6287
+ },
+ {
+  "corpus": "RTCFake",
+  "det": "T2",
+  "cls": "spoof",
+  "arm": "nolace",
+  "mean": -0.16754619331613566,
+  "se": 0.004318361823894635,
+  "n": 6287
+ },
+ {
+  "corpus": "RTCFake",
+  "det": "P1",
+  "cls": "bona",
+  "arm": "lace",
+  "mean": -0.13952002284494192,
+  "se": 0.021089363095618277,
+  "n": 1452
+ },
+ {
+  "corpus": "RTCFake",
+  "det": "P1",
+  "cls": "bona",
+  "arm": "nolace",
+  "mean": -0.9694991509094013,
+  "se": 0.04106136679557124,
+  "n": 1452
+ },
+ {
+  "corpus": "RTCFake",
+  "det": "P1",
+  "cls": "spoof",
+  "arm": "lace",
+  "mean": -0.31795071756266646,
+  "se": 0.014894320781736433,
+  "n": 6287
+ },
+ {
+  "corpus": "RTCFake",
+  "det": "P1",
+  "cls": "spoof",
+  "arm": "nolace",
+  "mean": -1.6803333707675527,
+  "se": 0.025774647790488724,
+  "n": 6287
+ },
+ {
+  "corpus": "RTCFake",
+  "det": "P2",
+  "cls": "bona",
+  "arm": "lace",
+  "mean": -0.2086268132873208,
+  "se": 0.01249198505529934,
+  "n": 1452
+ },
+ {
+  "corpus": "RTCFake",
+  "det": "P2",
+  "cls": "bona",
+  "arm": "nolace",
+  "mean": -0.628934024328997,
+  "se": 0.025486442502279973,
+  "n": 1452
+ },
+ {
+  "corpus": "RTCFake",
+  "det": "P2",
+  "cls": "spoof",
+  "arm": "lace",
+  "mean": -0.35479570171615504,
+  "se": 0.008395760512234859,
+  "n": 6287
+ },
+ {
+  "corpus": "RTCFake",
+  "det": "P2",
+  "cls": "spoof",
+  "arm": "nolace",
+  "mean": -1.3381144910704457,
+  "se": 0.016781363737885524,
+  "n": 6287
+ },
+ {
+  "corpus": "ASVspoof",
+  "det": "T1",
+  "cls": "bona",
+  "arm": "lace",
+  "mean": -2.071185563951731,
+  "se": 0.07335003630837438,
+  "n": 1000
+ },
+ {
+  "corpus": "ASVspoof",
+  "det": "T1",
+  "cls": "bona",
+  "arm": "nolace",
+  "mean": -2.7502731289118527,
+  "se": 0.08730849087996015,
+  "n": 1000
+ },
+ {
+  "corpus": "ASVspoof",
+  "det": "T1",
+  "cls": "spoof",
+  "arm": "lace",
+  "mean": -1.359687828719616,
+  "se": 0.0722572107306,
+  "n": 1000
+ },
+ {
+  "corpus": "ASVspoof",
+  "det": "T1",
+  "cls": "spoof",
+  "arm": "nolace",
+  "mean": -1.7026282059848308,
+  "se": 0.08817478392132051,
+  "n": 1000
+ },
+ {
+  "corpus": "ASVspoof",
+  "det": "T2",
+  "cls": "bona",
+  "arm": "lace",
+  "mean": -0.08049483378231526,
+  "se": 0.009882929268345575,
+  "n": 1000
+ },
+ {
+  "corpus": "ASVspoof",
+  "det": "T2",
+  "cls": "bona",
+  "arm": "nolace",
+  "mean": -0.6546728312075139,
+  "se": 0.02142371814236006,
+  "n": 1000
+ },
+ {
+  "corpus": "ASVspoof",
+  "det": "T2",
+  "cls": "spoof",
+  "arm": "lace",
+  "mean": -0.023653275132179262,
+  "se": 0.009531628604625869,
+  "n": 1000
+ },
+ {
+  "corpus": "ASVspoof",
+  "det": "T2",
+  "cls": "spoof",
+  "arm": "nolace",
+  "mean": -0.3965882231593132,
+  "se": 0.018756362227830007,
+  "n": 1000
+ },
+ {
+  "corpus": "ASVspoof",
+  "det": "P1",
+  "cls": "bona",
+  "arm": "lace",
+  "mean": -0.6153536718152464,
+  "se": 0.03259544275416816,
+  "n": 1000
+ },
+ {
+  "corpus": "ASVspoof",
+  "det": "P1",
+  "cls": "bona",
+  "arm": "nolace",
+  "mean": -1.986707155264914,
+  "se": 0.04686156231139694,
+  "n": 1000
+ },
+ {
+  "corpus": "ASVspoof",
+  "det": "P1",
+  "cls": "spoof",
+  "arm": "lace",
+  "mean": -0.025361400604248047,
+  "se": 0.0061641727286997575,
+  "n": 1000
+ },
+ {
+  "corpus": "ASVspoof",
+  "det": "P1",
+  "cls": "spoof",
+  "arm": "nolace",
+  "mean": -0.09955112600326538,
+  "se": 0.009709298188301019,
+  "n": 1000
+ },
+ {
+  "corpus": "ASVspoof",
+  "det": "P2",
+  "cls": "bona",
+  "arm": "lace",
+  "mean": -0.1657556308377534,
+  "se": 0.012855097784580926,
+  "n": 1000
+ },
+ {
+  "corpus": "ASVspoof",
+  "det": "P2",
+  "cls": "bona",
+  "arm": "nolace",
+  "mean": -1.2103769780807196,
+  "se": 0.02389094582411536,
+  "n": 1000
+ },
+ {
+  "corpus": "ASVspoof",
+  "det": "P2",
+  "cls": "spoof",
+  "arm": "lace",
+  "mean": -0.021127354025840758,
+  "se": 0.006572036953754509,
+  "n": 1000
+ },
+ {
+  "corpus": "ASVspoof",
+  "det": "P2",
+  "cls": "spoof",
+  "arm": "nolace",
+  "mean": -0.19345683658123017,
+  "se": 0.01378472594713814,
+  "n": 1000
+ },
+ {
+  "corpus": "FLEURS",
+  "det": "T1",
+  "cls": "bona",
+  "arm": "lace",
+  "mean": -0.32301096600294116,
+  "se": 0.024841849412673873,
+  "n": 1000
+ },
+ {
+  "corpus": "FLEURS",
+  "det": "T1",
+  "cls": "bona",
+  "arm": "nolace",
+  "mean": -0.39748971873521804,
+  "se": 0.031008031449189035,
+  "n": 1000
+ },
+ {
+  "corpus": "FLEURS",
+  "det": "T2",
+  "cls": "bona",
+  "arm": "lace",
+  "mean": 0.0397239658087492,
+  "se": 0.0080530159696236,
+  "n": 1000
+ },
+ {
+  "corpus": "FLEURS",
+  "det": "T2",
+  "cls": "bona",
+  "arm": "nolace",
+  "mean": -0.3819566970616579,
+  "se": 0.01972882930175488,
+  "n": 1000
+ },
+ {
+  "corpus": "FLEURS",
+  "det": "P1",
+  "cls": "bona",
+  "arm": "lace",
+  "mean": -0.13096129703521728,
+  "se": 0.01241294791297491,
+  "n": 1000
+ },
+ {
+  "corpus": "FLEURS",
+  "det": "P1",
+  "cls": "bona",
+  "arm": "nolace",
+  "mean": -1.1913363264203072,
+  "se": 0.038080907285502966,
+  "n": 1000
+ },
+ {
+  "corpus": "FLEURS",
+  "det": "P2",
+  "cls": "bona",
+  "arm": "lace",
+  "mean": -0.14221039420366288,
+  "se": 0.01717760432784059,
+  "n": 1000
+ },
+ {
+  "corpus": "FLEURS",
+  "det": "P2",
+  "cls": "bona",
+  "arm": "nolace",
+  "mean": -0.5784907017052173,
+  "se": 0.030181059443097756,
+  "n": 1000
+ }
+]
